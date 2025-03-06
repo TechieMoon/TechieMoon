@@ -23,9 +23,6 @@ Here are some ideas to get you started:
 <h3 align='center'> Frameworks </h3>
 <div align='center'>
 <img src="https://img.shields.io/badge/pytorch-E2E2E2?style=for-the-badge&logo=pytorch&logoColor=EE4C2C">
-<img src="https://img.shields.io/badge/html5-E2E2E2?style=for-the-badge&logo=html5&logoColor=E34F26">
-<img src="https://img.shields.io/badge/css3-E2E2E2?style=for-the-badge&logo=css3&logoColor=1572B6">
-<img src="https://img.shields.io/badge/javascript-E2E2E2?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 </div>
 
 <h3 align='center'> Computer Languages </h3>
@@ -33,4 +30,11 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/python-E2E2E2?style=for-the-badge&logo=python&logoColor=3776AB">
 <img src="https://img.shields.io/badge/java-E2E2E2?style=for-the-badge&logo=openjdk&logoColor=000000">
 <img src="https://img.shields.io/badge/c-E2E2E2?style=for-the-badge&logo=c&logoColor=A8B9CC">
+</div>
+
+<h3 align='center'> Frontend </h3>
+<div align='center'>
+<img src="https://img.shields.io/badge/html5-E2E2E2?style=for-the-badge&logo=html5&logoColor=E34F26">
+<img src="https://img.shields.io/badge/css3-E2E2E2?style=for-the-badge&logo=css3&logoColor=1572B6">
+<img src="https://img.shields.io/badge/javascript-E2E2E2?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 </div>
