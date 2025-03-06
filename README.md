@@ -38,3 +38,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/css3-E2E2E2?style=for-the-badge&logo=css3&logoColor=1572B6">
 <img src="https://img.shields.io/badge/javascript-E2E2E2?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 </div>
+
+## 수상실적
+|날짜|이름|수상|
+|---|---|---|
+|2011.07.13|제 23회 한국수학경시대회(KMC) 중1 부문|은상|
