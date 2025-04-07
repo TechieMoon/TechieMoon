@@ -41,16 +41,29 @@ Here are some ideas to get you started:
 
 ## 수상실적
 |날짜|주최|이름|수상|이미지|
+
 |---|---|---|---|---|
+
 |2010.05.25|성균관대학교|제 19회 전국 영어 / 수학 학력경시대회 수학 초등6학년 부문|장려상|[바로가기](pictures/The_19th_National_English_Mathematics_Academic_Achievement_Competition_Mathematics_Elementary_School_6th_Grade_Encouragement_Award.jpg)
+
 |2010.07.13|한국수학교육학회|제 21회 한국수학경시대회(KMC) 초6 부문|장려상|[바로가기](pictures/The_21st_KMC_Elementary_School_6th_Grade_Encouragement_Award.jpg)
-|2010.07.13|성균관대학교|제 21회 전국 영어 / 수학 학력경시대회 수학 중등1학년 부문|장려상|[바로가기](pictures/The_21st_National_English_Mathematics_Academic_Achievement_Competition_Mathematics_Middle_School_1st_Grade_Encouragement_Award.jpg)
+
+|2011.05.24|성균관대학교|제 21회 전국 영어 / 수학 학력경시대회 수학 중등1학년 부문|장려상|[바로가기](pictures/The_21st_National_English_Mathematics_Academic_Achievement_Competition_Mathematics_Middle_School_1st_Grade_Encouragement_Award.jpg)
+
 |2011.07.13|한국수학교육학회|제 23회 한국수학경시대회(KMC) 중1 부문|은상|[바로가기](pictures/The_23rd_KMC_Middle_School_1st_Grade_Silver_Prize.jpg)
-|2010.07.13|성균관대학교|제 22회 전국 영어 / 수학 학력경시대회 수학 중등1학년 부문|장려상|[바로가기](pictures/The_22nd_National_English_Mathematics_Academic_Achievement_Competition_Mathematics_Middle_School_1st_Grade_Encouragement_Award.jpg)
+
+|2011.11.24|성균관대학교|제 22회 전국 영어 / 수학 학력경시대회 수학 중등1학년 부문|장려상|[바로가기](pictures/The_22nd_National_English_Mathematics_Academic_Achievement_Competition_Mathematics_Middle_School_1st_Grade_Encouragement_Award.jpg)
+
 |2012.01.19|한국수학교육학회|제 24회 한국수학경시대회(KMC) 중1 부문|동상|[바로가기](pictures/The_24th_KMC_Middle_School_1st_Grade_Bronze_Prize.jpg)
+
 |2013.01.30|한국수학교육학회|제 26회 한국수학경시대회(KMC) 중2 부문|동상|[바로가기](pictures/The_26th_KMC_Middle_School_2nd_Grade_Bronze_Prize.jpg)
+
 |2014.01.23|한국수학교육학회|제 28회 한국수학경시대회(KMC) 중3 부문|동상|[바로가기](pictures/The_28th_KMC_Middle_School_3rd_Grade_Bronze_Prize.jpg)
-|2015.02.27|한국수학교육학회|제 28회 한국수학경시대회(KMC) 고1 부문|동상|[바로가기](pictures/The_30th_KMC_High_School_1st_Grade_Encouragement_Prize.jpg)
+
+|2015.02.27|한국수학교육학회|제 30회 한국수학경시대회(KMC) 고1 부문|장려상|[바로가기](pictures/The_30th_KMC_High_School_1st_Grade_Encouragement_Prize.jpg)
+
 |2016.07.01|남성고등학교|교내 수학 경시대회|장려상(4등)|[바로가기](pictures/School_Mathematics_Competition_Encouragement_Award_4th_Place.jpg)
 
+|2024.01.24|고려대학교|2023년 2학기 학업성적 최우등생|표창장|[바로가기](pictures/Commendation_for_Excellent_Academic_Achievement_2nd_Semester_2023.jpg)
 
+## 어학성적
