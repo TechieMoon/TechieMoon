@@ -42,4 +42,6 @@ Here are some ideas to get you started:
 ## 수상실적
 |날짜|이름|수상|이미지|
 |---|---|---|---|
+|2010.07.13|제 21회 한국수학경시대회(KMC) 초6 부문|장려상|[바로가기](pictures/The_21st_KMC_Elementary_School_6th_Grade_Encouragement_Award.jpg)
+|---|---|---|---|
 |2011.07.13|제 23회 한국수학경시대회(KMC) 중1 부문|은상|[바로가기](pictures/The_23rd_KMC_Middle_School_1st_Grade_Silver_Prize.jpg)
