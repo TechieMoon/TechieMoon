@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 </div>
 
 ## 수상실적
+
 |날짜|주최|이름|수상|이미지|
 |---|---|---|---|---|
 |2010.05.25|성균관대학교|제 19회 전국 영어 / 수학 학력경시대회 수학 초등6학년 부문|장려상|[바로가기](pictures/The_19th_National_English_Mathematics_Academic_Achievement_Competition_Mathematics_Elementary_School_6th_Grade_Encouragement_Award.jpg)
@@ -57,4 +58,16 @@ Here are some ideas to get you started:
 |2024.08.23|고려대학교|2024학년도 제 1학기 학장상(ALL A+)|학장상|[바로가기](pictures/Deans_Award_1st_Semester_2024_Academic_Year_Computer_Convergence_Software_Dept.jpg)
 |2025.01.07|고려대학교|2024학년도 제 2학기 학업성적 최우등생|표창장|[바로가기](pictures/Commendation_for_Excellent_Academic_Achievement_2nd_Semester_2024.jpg)
 
+
+## 학교성적
+
+원광대학교 기계공학과 수료 후 고려대학교 컴퓨터융합소프트웨어학과로 편입 후 졸업
+
+|학교|학과|기간|성적|학적|
+|---|---|---|---|
+|원광대학교|기계공학과|2017.02 ~ 2021.08|4.26 / 4.50
+|고려대학교|컴퓨터융합소프트웨어학과|2022.02 ~ 2025.02|4.26 / 4.50
+
 ## 어학성적
+
+토익 720점
