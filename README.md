@@ -42,4 +42,4 @@ Here are some ideas to get you started:
 ## 수상실적
 |날짜|이름|수상|이미지|
 |---|---|---|---|
-|2011.07.13|제 23회 한국수학경시대회(KMC) 중1 부문|은상|![링크](pictures/The 23rd KMC Middle School 1st Grade Silver Prize.jpg)
+|2011.07.13|제 23회 한국수학경시대회(KMC) 중1 부문|은상|![링크](pictures/The_23rd_KMC_Middle_School_1st_Grade_Silver_Prize.jpg)
