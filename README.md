@@ -57,6 +57,7 @@ Here are some ideas to get you started:
 |2024.01.24|고려대학교|2023학년도 제 2학기 학업성적 최우등생|표창장|[바로가기](pictures/Commendation_for_Excellent_Academic_Achievement_2nd_Semester_2023.jpg)
 |2024.07.09|고려대학교|2024학년도 제 1학기 학업성적 최우등생|표창장|[바로가기](pictures/Commendation_for_Excellent_Academic_Achievement_1st_Semester_2024.jpg)
 |2024.08.23|고려대학교|2024학년도 제 1학기 학장상(ALL A+)|학장상|[바로가기](pictures/Deans_Award_1st_Semester_2024_Academic_Year_Computer_Convergence_Software_Dept.jpg)
+|2024.12.06|고려대학교|제26회 학술제 작품 경진 대회|3,4학년 부문 1등|[바로가기](pictures/KoreaUniv_CS_26th_AcademicFestival_Award_2024_1stPlace.jpg)
 |2025.01.07|고려대학교|2024학년도 제 2학기 학업성적 최우등생|표창장|[바로가기](pictures/Commendation_for_Excellent_Academic_Achievement_2nd_Semester_2024.jpg)
 
 
