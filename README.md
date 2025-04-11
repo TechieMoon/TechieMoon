@@ -15,7 +15,20 @@ Here are some ideas to get you started:
 
 <div align='center'>
 
-## AI 모델 디자이너 및 웹 개발자를 목표합니다
+# # 인공지능 개발자 × 바이브 코딩 풀스택 웹 개발자
+
+
+- Name: Sunwoong Moon(문선웅)
+
+- Gender: male
+
+- age: born in 1998
+
+## 💡 현재 학습 중인 기술
+
+- AI 모델을 활용한 데이터 분석 및 성능 최적화
+- Spring Boot 기반의 웹 백엔드 개발
+
 </br>
 </br>
 </div>
@@ -26,14 +39,14 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/spring boot-E2E2E2?style=for-the-badge&logo=springboot&logoColor=6DB33F">
 </div>
 
-<h3 align='center'> Computer Languages </h3>
+<h3 align='center'> Programming Languages </h3>
 <div align='center'>
 <img src="https://img.shields.io/badge/python-E2E2E2?style=for-the-badge&logo=python&logoColor=3776AB">
 <img src="https://img.shields.io/badge/java-E2E2E2?style=for-the-badge&logo=openjdk&logoColor=000000">
 <img src="https://img.shields.io/badge/c-E2E2E2?style=for-the-badge&logo=c&logoColor=A8B9CC">
 </div>
 
-<h3 align='center'> Frontend </h3>
+<h3 align='center'> Frontend Technologies </h3>
 <div align='center'>
 <img src="https://img.shields.io/badge/html5-E2E2E2?style=for-the-badge&logo=html5&logoColor=E34F26">
 <img src="https://img.shields.io/badge/css3-E2E2E2?style=for-the-badge&logo=css3&logoColor=1572B6">
@@ -70,6 +83,6 @@ Here are some ideas to get you started:
 |원광대학교|기계공학과|2017.02 ~ 2021.08|4.26 / 4.50
 |고려대학교|컴퓨터융합소프트웨어학과|2022.02 ~ 2025.02|4.26 / 4.50
 
-## 어학성적
+## 🌐 Language Proficiency
 
-토익 720점
+- TOEIC: 720 (202X년 취득)
