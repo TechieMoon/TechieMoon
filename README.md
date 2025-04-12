@@ -13,9 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align='center'>
-
-# # 인공지능 개발자 × 바이브 코딩 풀스택 웹 개발자
+# 인공지능 개발자 × 바이브 코딩 풀스택 웹 개발자
 
 
 - Name: Sunwoong Moon(문선웅)
@@ -85,4 +83,4 @@ Here are some ideas to get you started:
 
 ## 🌐 Language Proficiency
 
-- TOEIC: 720 (202X년 취득)
+- TOEIC: 720 (2024년 취득)
